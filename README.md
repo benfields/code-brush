@@ -1,6 +1,6 @@
 Code Brush
 ==========
-Easlily add code snippits to your website and have them look great!
+Easily add code snippits to your website and have them look great!
 
 =========
 
