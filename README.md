@@ -6,28 +6,7 @@ Easlily add code snippits to your website and have them look great!
 
 ### How to enable Code Brush
 
-using code brush is easy, just add the following html to the 'head' section of your webpage
-
-```html
-    <link rel="stylesheet" type="text/css" href="http://terld.com/tdata/source/wikitds/codebrush/mouthtds.css" media="all" />
-
-    <link rel="stylesheet" type="text/css" media="print" href="http://terld.com/tdata/source/wikitds/codebrush/theme_print.css" />
-      <script src="http://terld.com/tdata/source/wikitds/codebrush/shCore.js"></script>
-      <script src="http://terld.com/tdata/source/wikitds/codebrush/shBrushXml.js"></script>
-      <script src="http://terld.com/tdata/source/wikitds/codebrush/shBrushCss.js"></script>
-      <script src="http://terld.com/tdata/source/wikitds/codebrush/shBrushPhp.js"></script>
-      <script src="http://terld.com/tdata/source/wikitds/codebrush/shBrushSql.js"></script>
-      <script src="http://terld.com/tdata/source/wikitds/codebrush/shBrushJScript.js"></script>   
-      <script>
-        SyntaxHighlighter.defaults['auto-links'] = false;
-        SyntaxHighlighter.defaults['toolbar'] = false;
-        SyntaxHighlighter.all();
-      </script>
-
-```
-
-
-or, if you have downloaded the ZIP file and added it to your website's directory (unzipped of course), use the html code example shown below
+using code brush is easy, if you have downloaded the ZIP file and added it to your website's directory (unzipped of course), use the html code example shown below
 
 ```html
     <link rel="stylesheet" type="text/css" href="tyrm.css" media="all" />
