@@ -9,20 +9,19 @@ Easily add code snippits to your website and have them look great!
 using code brush is easy, if you have downloaded the ZIP file and added it to your website's directory (unzipped of course). now you can add the html code below in between the <code>head</code> tags.
 
 ```html
-    <link rel="stylesheet" type="text/css" href="tyrm.css" media="all" />
-
-    <link rel="stylesheet" type="text/css" media="print" href="theme_print.css" />
-      <script src="cbCore.js"></script>
-      <script src="cBrushXml.js"></script>
-      <script src="cBrushCss.js"></script>
-      <script src="cBrushPhp.js"></script>
-      <script src="cBrushSql.js"></script>
-      <script src="cBrushJScript.js"></script>   
-      <script>
-        SyntaxHighlighter.defaults['auto-links'] = false;
-        SyntaxHighlighter.defaults['toolbar'] = false;
-        SyntaxHighlighter.all();
-      </script>
+<link rel="stylesheet" type="text/css" href="tyrm.css" media="all" />
+<link rel="stylesheet" type="text/css" media="print" href="theme_print.css" />
+<script src="cbCore.js"></script>
+<script src="cBrushXml.js"></script>
+<script src="cBrushCss.js"></script>
+<script src="cBrushPhp.js"></script>
+<script src="cBrushSql.js"></script>
+<script src="cBrushJScript.js"></script>   
+<script>
+    SyntaxHighlighter.defaults['auto-links'] = false;
+    SyntaxHighlighter.defaults['toolbar'] = false;
+    SyntaxHighlighter.all();
+</script>
 
 ```
 
