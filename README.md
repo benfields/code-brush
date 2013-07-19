@@ -6,7 +6,7 @@ Easily add code snippits to your website and have them look great!
 
 ### How to enable Code Brush
 
-using code brush is easy, if you have downloaded the ZIP file and added it to your website's directory (unzipped of course). now you can add the html code below in between the <code>head</code> tags.
+using code brush is easy, if you have downloaded the ZIP file and added it to your website's directory (unzipped of course), you can add the html code below in between the <code>head</code> tags.
 
 ```html
 <link rel="stylesheet" type="text/css" href="tyrm.css" media="all" />
