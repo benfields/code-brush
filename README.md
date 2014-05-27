@@ -61,13 +61,9 @@ the example above highlights lines 3, 12, and 17 in your code that goes in betwe
 
 ========
 
-## Source License
-
-##### Summarized, write about it, integrate it, make it your own, but don’t copy and paste my work and sell it or claim that it’s yours.
-
 ### MIT License
 
-Copyright (c) 2013 Ben Fields
+Copyright (c) 2013-2014 Ben Fields
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
