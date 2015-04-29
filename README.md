@@ -10,7 +10,6 @@ using code brush is easy, if you have downloaded the ZIP file and added it to yo
 
 ```html
 <link rel="stylesheet" type="text/css" href="tyrm.css" media="all" />
-<link rel="stylesheet" type="text/css" media="print" href="theme_print.css" />
 <script src="cbCore.js"></script>
 <script src="cBrushXml.js"></script>
 <script src="cBrushCss.js"></script>
